@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://ne-x.uni.rf.gd/sitemap.xml
